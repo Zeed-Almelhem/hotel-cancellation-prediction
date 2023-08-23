@@ -8,7 +8,7 @@ You can also connect with me on [LinkedIn]( https://www.linkedin.com/in/zeed-alm
 
 ## Project Results
 
-To view the HTML output of the project and the associated notebook, please visit [the project's page on my website](https://www.zeed-almelhem.com/hotel-reservation-cancellations). Alternatively, you can [click here](https://github.com/YourGitHubUsername/YourRepositoryName) to access the code on GitHub.
+To view the HTML output of the project and the associated notebook, please visit [the project's page on my website](https://www.zeed-almelhem.com/hotel-reservation-cancellations). Alternatively, you can [click here](https://github.com/Zeed-Almelhem/hotel-cancellation-prediction/blob/main/Hotel_Reservation_Cancellations%20-%20Part%201.ipynb) to access Part 1, you can [click here](https://github.com/Zeed-Almelhem/hotel-cancellation-prediction/blob/main/Hotel_Reservation_Cancellations%20-%20Part%202.ipynb) to access Part 2  and you can [click here](https://github.com/Zeed-Almelhem/hotel-cancellation-prediction/blob/main/Hotel_Reservation_Cancellations%20-%20Part%203.ipynb) to access Part 3 on GitHub.
 
 ----
 
